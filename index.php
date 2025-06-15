@@ -26,7 +26,7 @@
                 <div class="card">
                     <div class="card-header text-center">A+</div>
                     <div class="card-body">
-                        If you are Atharv: You can give blood to A+ and AB+. You can receive blood from A+, A-, O+ and O-
+                        If you are Atharv Patil: You can give blood to A+ and AB+. You can receive blood from A+, A-, O+ and O-
                     </div>
                 </div>
             </div>
